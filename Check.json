@@ -1,8 +1,10 @@
-so_hash=969774afb4ac1986699d5e6acb0dc88efd2414ac667fba129048f313528687d9
-so_size=670568
-main_hash=0a19e8b71c532d8f97faf5d4f77b0e72742429275d40aa9c71149a71e560d2c3
-main_size=3376
-gp_hash=a288a4ff7d8058ba16ab2503b6521e706103e171a3a16d242d0b7f3a174d43f0
-gp_size=1998
-zip_hash=ab9dc89ad8a8d3b3032025dc030f2732f4044c24262b9b45a6d263c74bb3e9da
-zip_size=259404
+{
+  "gp_hash":   "1e7143c61855b5c32487e360b3a0dfb018d03f447e89d330ba883d443d0015c8",
+  "gp_size":   1998,
+  "main_hash": "f088e81cbfa9bdb7bd52b5222205f39ca9f5456a06cd23de2faf41283468483e",
+  "main_size": 2940,
+  "so_hash":   "9b9a4d2cbead3466106cc2deda7c0aa81d0cfd3c19b05edb8b135edcb2da79fd",
+  "so_size":   689960,
+  "zip_hash":  "c227236c48bf970f2677432b9fa93dad36a7dfe7fd9482128eb25ec067bf2a1d",
+  "zip_size":  267819
+}
